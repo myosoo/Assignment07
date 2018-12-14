@@ -1,3 +1,2 @@
 # Assignment07
-
-Name : Junha Lee, Student ID : 2017220159
+This is a Data-Mining class project at Chung-Ang University
